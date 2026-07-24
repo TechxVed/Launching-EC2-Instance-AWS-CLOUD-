@@ -218,7 +218,7 @@ To avoid unnecessary AWS charges:
 
 # 👨‍💻 Author
 
-**Ved Sharma**
+**Ved Dandotia**
 
 * 🌐 Portfolio: *https://techxved.me*
 * 💼 LinkedIn: *linkedin.com/in/ved-dandotia-b069a5329*
