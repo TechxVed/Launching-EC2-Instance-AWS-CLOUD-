@@ -38,7 +38,7 @@ In this project, an EC2 instance automatically installs and configures the **Apa
 # 🏗️ Architecture
 
 <p align="center">
-  <img src="images/architecture.png" alt="AWS EC2 Architecture" width="850">
+  <img src="aws architecture.png" alt="AWS EC2 Architecture" width="850">
 </p>
 
 ### Deployment Flow
