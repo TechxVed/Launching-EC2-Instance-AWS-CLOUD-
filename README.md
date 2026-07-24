@@ -221,8 +221,8 @@ To avoid unnecessary AWS charges:
 **Ved Sharma**
 
 * 🌐 Portfolio: *https://techxved.me*
-* 💼 LinkedIn: *Add your LinkedIn profile*
-* 🐙 GitHub: *Add your GitHub profile*
+* 💼 LinkedIn: *linkedin.com/in/ved-dandotia-b069a5329*
+* 🐙 GitHub: *(http://github.com/TechxVed)*
 
 ---
 
