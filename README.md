@@ -220,9 +220,9 @@ To avoid unnecessary AWS charges:
 
 **Ved Dandotia**
 
-* 🌐 Portfolio: *https://techxved.me*
-* 💼 LinkedIn: *linkedin.com/in/ved-dandotia-b069a5329*
-* 🐙 GitHub: *(http://github.com/TechxVed)*
+*  Portfolio: *https://techxved.me*
+* LinkedIn*https://linkedin.com/in/ved-dandotia-b069a5329*
+*  GitHub: *(http://github.com/TechxVed)*
 
 ---
 
